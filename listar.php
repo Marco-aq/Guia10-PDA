@@ -131,6 +131,7 @@ $miConsulta->execute();
         <?php endforeach; ?>
         </tbody>
     </table>
+    <br>
+    <a class="button" href="ejemplo.php">🗝️ Generar reporte</a>
 </body>
 </html>
-<!-- Primer comentario con comando -->

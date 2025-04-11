@@ -132,6 +132,7 @@ $miConsulta->execute();
         </tbody>
     </table>
     <br>
-    <a class="button" href="ejemplo.php">🗝️ Generar reporte</a>
+    <a class="button" href="reporteBasico.php">📋 Generar reporte básico</a>
+    <a class="button" href="reporteCompleto.php">📊 Generar reporte completo</a>
 </body>
 </html>

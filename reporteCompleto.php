@@ -1,5 +1,5 @@
 <?php
-ob_start(); // Inicia buffer para evitar que se envíe salida antes del PDF
+ob_start(); 
 require('./fpdf186/fpdf.php');
 
 class PDF extends FPDF {
